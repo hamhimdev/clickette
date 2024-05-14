@@ -1,2 +1,1 @@
-# honeycomb
-🍯 A private, clean search engine.
+# clickette
